@@ -15,8 +15,16 @@ agar mengizinkan aplikasi dari luar atau Aplikasi ini, untuk menjalankan TermuxS
  Aplikasi GUI FFMPEG ini belum saya sempurnakan, Commandline dan PathDirectory (Settingan untuk file output) juga belum bekerja. 
 jadi untuk commandline, saya atur sebagai default command untuk Aplikasi GUI ini, walaupun anda mengisi TextBox Commandline dan PathDirectory output file, itu tidak akan bekerja.
 
+1. IntentShared
+Anda dapat mengirim foto atau video yang akan hendak dikompress kedalam aplikasi.
+![IntentShared](./test1.jpg)
 
+atau membuka langsung aplikasi lalu memasukkannya.
 
+2. File Result (Output pengompressan)
+Output pengompresan otomatis tersimpan kedalam PathDirectory bersama dengan file aslinya.
+
+3. 
 
 # Support for more features
 
