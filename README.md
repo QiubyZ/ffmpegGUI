@@ -1,6 +1,6 @@
 # Termux:ffmpegGUI
 
-Saya asumsikan bahwa anda telah menginstall ffmpeg pada Termux Anda dan menggunakan Termux yang berada pada [Fdroid](https://f-droid.org/en/packages/com.termux)
+Saya asumsikan bahwa anda telah menginstall ffmpeg pada Termux Anda dan menggunakan Termux yang berada pada [Fdroid](https://f-droid.org/en/packages/com.termux).
 1. Pertama - pertama izinkan termux anda untuk membaca Storage penyimpanan File. Dengan menggunakan Perintah 
 ```termux-setup-storage```
 ![termux](./img.png)
