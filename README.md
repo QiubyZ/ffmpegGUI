@@ -22,7 +22,7 @@ Anda dapat mengirim foto atau video yang akan hendak dikompress kedalam aplikasi
 atau membuka langsung aplikasi lalu memasukkannya.
 
 2. File Result (Output pengompressan)
-Output pengompresan otomatis tersimpan kedalam PathDirectory bersama dengan file aslinya.
+Output pengompresan otomatis tersimpan kedalam PathDirectory file aslinya.
 
 3. 
 
