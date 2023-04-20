@@ -1,6 +1,6 @@
 # Termux:ffmpegGUI
 
-Saya asumsikan bahwa anda telah menginstall ffmpeg pada Termux Anda.
+Saya asumsikan bahwa anda telah menginstall ffmpeg pada Termux Anda dan menggunakan Termux yang berada pada [Fdroid](https://f-droid.org/en/packages/com.termux)
 1. Pertama - pertama izinkan termux anda untuk membaca Storage penyimpanan File. Dengan menggunakan Perintah 
 ```termux-setup-storage```
 ![termux](./img.png)
@@ -17,14 +17,11 @@ jadi untuk commandline, saya atur sebagai default command untuk Aplikasi GUI ini
 
 1. IntentShared
 Anda dapat mengirim foto atau video yang akan hendak dikompress kedalam aplikasi.
-![IntentShared](./test1.jpg)
-
-atau membuka langsung aplikasi lalu memasukkannya.
+![IntentShared](./test1.jpg) atau membuka langsung aplikasi lalu memasukkannya.
 
 2. File Result (Output pengompressan)
 Output pengompresan otomatis tersimpan kedalam PathDirectory file aslinya.
 ![OuputFile](./test3.jpg)
-3. 
 
 # Support for more features
 
