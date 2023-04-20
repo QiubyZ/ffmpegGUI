@@ -23,7 +23,7 @@ atau membuka langsung aplikasi lalu memasukkannya.
 
 2. File Result (Output pengompressan)
 Output pengompresan otomatis tersimpan kedalam PathDirectory file aslinya.
-
+![OuputFile](./test3.jpg)
 3. 
 
 # Support for more features
