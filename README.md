@@ -11,9 +11,7 @@ agar mengizinkan aplikasi dari luar atau Aplikasi ini, untuk menjalankan TermuxS
 3. Berikutanya anda bisa menggunakan Aplikasi ini sebagaimana biasanya.
 
 # Tentang Fitur
- Fitur untuk saat ini masih sederhana,
- Aplikasi GUI FFMPEG ini belum saya sempurnakan, Commandline dan PathDirectory (Settingan untuk file output) juga belum bekerja. 
-jadi untuk commandline, saya atur sebagai default command untuk Aplikasi GUI ini, walaupun anda mengisi TextBox Commandline dan PathDirectory output file, itu tidak akan bekerja.
+Fitur untuk saat ini masih sederhana, Aplikasi GUI FFMPEG ini belum saya sempurnakan, Commandline dan PathDirectory (Settingan untuk file output) juga belum bekerja. jadi untuk commandline, saya atur sebagai default command untuk Aplikasi GUI ini, walaupun anda mengisi TextBox Commandline dan PathDirectory output file, itu tidak akan bekerja.
 
 1. IntentShared
 Anda dapat mengirim foto atau video yang akan hendak dikompress kedalam aplikasi.
